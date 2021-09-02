@@ -1,5 +1,5 @@
 {
-    "name": "kreait/laravel-firebase",
+    "name": "romankobrin/laravel-firebase",
     "description": "A Laravel package for the Firebase PHP Admin SDK",
     "keywords": ["laravel", "firebase", "fcm", "gcm"],
     "type": "library",
@@ -13,8 +13,8 @@
     "require": {
         "php": "^7.2|~8.0.0",
         "kreait/firebase-php": "^5.18",
-        "illuminate/contracts": "^6.0|^7.0|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0"
+        "illuminate/contracts": "^5.8|^6.0|^7.0|^8.0",
+        "illuminate/support": "^5.8|^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0|^5.0|^6.0",
